@@ -6,3 +6,4 @@ What I hope to learn:
 - Publishing local projects to GitHub from the command line
 - Collaborating with forks and pull requests
 - Keeping my local branches in sync with GitHub
+- Editing files and opening pull requests directly on github.com
